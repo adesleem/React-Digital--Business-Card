@@ -3,13 +3,11 @@ import { AiOutlineFacebook } from "react-icons/ai";
 import { FaTwitterSquare } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
 
-const footerIconStyles = { color: "#918e9b", fontSize: "2.5rem" };
-
-export default function Footer({ footerIconStyles }) {
+export default function Footer() {
   return (
     <div className="footer">
       <div className="icons">
-        <AiFillGithub style={footerIconStyles} />
+        <AiFillGithub color=" #918e9b" font-size="1.5rem" />
         <FaTwitterSquare className="twitter" />
         <AiOutlineFacebook className="facebook" />
       </div>
