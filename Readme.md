@@ -1,10 +1,22 @@
-## Project Name: Digital Business Card
+# Basic React Application
 
-## Technologies used: React using Vitejs, CSS and an online avater maker
+## Project Name:
 
-## Level: Beginner
+- Digital Business Card
 
-## Lessons Learnt: How to add images and icons to react (atleast at a beginner level).
+## Technologies:
+
+- React using Vitejs
+- CSS
+- Online avater maker
+
+## Project Level:
+
+- Beginner
+
+## Lessons Learnt:
+
+- How to add images and icons to react (atleast at a beginner level).
 
 ## Areas to be improved:
 
@@ -13,22 +25,27 @@
 
 ## useful Links
 
-## The Icons are from - React Icons
+### The Icons are from - React Icons
 
 https://react-icons.github.io/react-icons
 
-## Avatar
+### Avatar
 
 https://avatarmaker.com/
 
-## Adding Images to react
+### Adding Images to react
 
 https://create-react-app.dev/docs adding-images-fonts-and-files/
 
-## Vite
+### Vite
 
 https://vitejs.dev/guide/
 
-## Google Fonts
+### Google Fonts
 
 https://fonts.google.com/specimen/Lato?query=lato
+
+## To do
+
+[] Add Social links
+[] Style Social Links
