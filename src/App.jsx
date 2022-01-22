@@ -8,7 +8,7 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="card">
-      <Info title="Oloyede" />
+      <Info title="Oloyede Adeosun" />
       <About />
       <Interests />
       <Footer />
