@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import Info from "./Components/Info";
 import About from "./Components/About";
 import Interests from "./Components/Interests";
