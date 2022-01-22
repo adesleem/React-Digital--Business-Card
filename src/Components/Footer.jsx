@@ -7,11 +7,7 @@ export default function Footer() {
   return (
     <div className="footer">
       <div className="icons">
-        <AiFillGithub
-          color=" #918e9b"
-          font-size="1.5rem"
-          margin="margin: 8px;"
-        />
+        <AiFillGithub color=" #918e9b" font-size="1.5rem" margin="8px" />
         <FaTwitterSquare className="twitter" />
         <AiOutlineFacebook className="facebook" />
       </div>
